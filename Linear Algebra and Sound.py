@@ -1,5 +1,5 @@
 # Author : B Saketh Chandra
-# more info : https://github.com/Saketh-Chandra
+# more info : https://github.com/Saketh-Chandra/Linear-Algebra-and-Sound/
 
 
 import numpy as np
