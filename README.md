@@ -1,3 +1,5 @@
+Note: If you can't open any link🔗 Open in this : [link](https://github.com/Saketh-Chandra/Linear-Algebra-and-Sound/blob/main/Linear%20Algebra%20and%20Sound.pdf)
+
 ![image](https://user-images.githubusercontent.com/46235445/131081847-415ce4e4-033b-4184-a389-92db93e6a14d.png)
 ![image](https://user-images.githubusercontent.com/46235445/131081874-ea1118c9-02d4-4969-b1c6-45630c49b476.png)
 ![image](https://user-images.githubusercontent.com/46235445/131081917-e8f63157-79ce-4e0e-83e4-4aa53ef67b7b.png)
